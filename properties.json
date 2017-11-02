@@ -1,8 +1,0 @@
-{
-  "name": "Lettuce-Bot",
-  "version": "1.0.0",
-  "description": "Bot for the LITERALLY LETTUCE discord server.",
-  "main": "bot.js",
-  "author": "Alex Majors, Erin Thomas",
-  "dependencies": {}
-}
