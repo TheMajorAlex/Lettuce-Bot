@@ -27,6 +27,8 @@ async def on_ready():
 # Just type @client.command(pass_context=True) above it
 # The function name will be the command the user has to type 
 # "await client.say()" Will have the bot say something
+# The await keyword basically means wait until client.say is sucesfully ran to do anything else 
+
 @client.command(pass_context=True)
 async def ping(ctx):
 	await client.say("Pong!")
